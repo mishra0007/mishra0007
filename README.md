@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer** with a pas
 ---
 
 ## 🛠️ Tech Stack  
+<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="180"/>
 
 - **Languages:** Java, Python, C/C++, TypeScript.  
 - **Frameworks & Tools:** Spring, Spring Boot, Dagger2, Docker, Kubernetes, Jenkins, AWS CDK.  
