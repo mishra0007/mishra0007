@@ -1,12 +1,19 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mishra0007&show_icons=true&include_all_commits=true&hide_border=true" />
-
-
 # Hi there! 👋 I'm Abhishek Mishra  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mishra0007&show_icons=true&include_all_commits=true&hide_border=true" />
 
 Welcome to my GitHub profile! I'm a **Software Development Engineer** with a passion for building scalable, efficient, and impactful software solutions. 
 
 ---
+
+⚠️
+👇
+⚠️
+👇
+⚠️
+👇
+⚠️
 
 ## 🌟 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=mishra0007&color=blue&style=flat) 
 
